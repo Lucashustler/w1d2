@@ -11,4 +11,3 @@ while i <= nombre
     puts ""
 end
 
-
